@@ -3,6 +3,7 @@
 # Earthquake Mapper
 
 Earthquake Mapper is an interactive application that visualizes earthquake data on an interactive map, providing insights into recent earthquake activities alongside tectonic plate boundaries.
+[Check out the live demo here!](https://sunghea.github.io/leaflet-challenge)
 
 ## Features
 
