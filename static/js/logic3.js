@@ -102,7 +102,7 @@ d3.json(queryUrl).then(function(response) {
         // Create map
         let map = L.map("map", {
             center: [39, -98],
-            zoom: 6,
+            zoom: 4,
             layers: [streetmap, earthquakesLocation]
         });
 
