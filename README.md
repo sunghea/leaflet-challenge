@@ -16,7 +16,7 @@ Earthquake Mapper is an interactive application that visualizes earthquake data 
 - **Map Layers:** Toggle earthquake locations and tectonic plate boundaries on/off using the layer control panel on the top right corner of the map.
 - **Map Styles:** Change the base map style by selecting from the available options in the layer control panel.
 
-- ## Data Source
+## Data Source
 The earthquake data used in this project was obtained from the United States Geological Survey (USGS) earthquake data feed. The data provides information about earthquakes worldwide and is updated regularly.
 
 The tectonic plates data, known as PB2002 dataset, was sourced from [Peter Bird's website](http://peterbird.name/oldFTP/PB2002/) in June 2014. The original data is included in the "static/data" folder of this repository, with minor updates applied as needed.
