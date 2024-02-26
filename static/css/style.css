@@ -1,0 +1,42 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+}
+
+/* Adjusting the width and height of the box */
+.legend {
+  line-height: 24px;
+  color: #555;
+  width: auto; /* Set width to auto to fit content */
+  height: auto; /* Set height to auto to fit content */
+  padding: 10px; /* Adjusting the internal padding */
+  font-size: 16px;
+}
+
+.legend i {
+  width: 18px;
+  height: 18px;
+  float: left;
+  margin-right: 8px;
+  opacity: 0.7;
+}
+
+.info {
+  padding: 10px; /* Adjusting the internal padding */
+  font: 16px Arial, Helvetica, sans-serif; /* Adjusting the font size */
+  background: white;
+  background: rgba(255,255,255,0.8);
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  border-radius: 5px;
+}
+
+.info h4 {
+  margin: 0 0 10px; /* Adjusting the margin below the title */
+  color: #777;
+}
